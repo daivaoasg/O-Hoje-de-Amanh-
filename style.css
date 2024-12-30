@@ -1,0 +1,131 @@
+
+*{
+
+    box-sizing: border-box;
+}
+
+.cabecalho{
+    border: 2px;
+}
+.titulo-pagina {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 20px 18px 6px #808080;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    border: solid 3px;
+
+}
+
+.nome-do-autor{
+    font-size: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    padding: 10px;
+   }
+
+.dica-para-viver-melhor{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+.nao-se-comaparar{
+    line-height: 30px;
+}
+
+.subtitulo h2{}
+
+.nao-fazer-o-que-os-outros-fazem{
+    line-height: 30px;
+}
+
+.nao-seguir-o-conselho-dos-outros{
+    line-height: 30px;
+}
+
+.nao-aceitar-opiniao-de-terceiros{
+    line-height: 30px;
+}
+
+.nao-cometer-o-mesmo-erro{
+    line-height: 30px;
+}
+
+.nao-pensar-em-desistir-desanimar-parar{
+    line-height: 30px;
+}
+
+.teoria-do-carro{
+    line-height: 30px;
+}
+
+.nao-desista-dos-seus-sonhos{
+    line-height: 30px;
+}
+
+.nao-ter-medo{
+    line-height: 30px;
+}
+
+.nao-temer-a-dificuldade{
+    line-height: 30px;
+}
+
+.acreditar-em-voce-mesmo{
+    line-height: 30px;
+}
+
+.se-conhecer{
+    line-height: 30px;
+}
+
+.se-importar-com-o-seu-sentimento{
+    line-height: 30px;
+}
+
+.me-colocar-no-lugar-do-proximo{
+    line-height: 30px;
+}
+.quebrar-as-barreiras-controlar-os-oensamentos{
+    line-height: 30px;
+}
+
+.teoria-do-balao{
+    text-align: center;
+}
+
+.e-preciso-ser-forte{
+    line-height: 30px;
+}
+
+.controla-a-boca{
+    line-height: 30px;
+}
+
+.nunca-reclamar-sempre-agradecer{
+    line-height: 30px;
+}
+
+.agir-como-se-ja-tivesse{
+    line-height: 30px;
+}
+
+.buscar-forças-onde-ninguem-ve{
+    line-height: 30px;
+}
+
+.a-dor-e-necessaria{
+    line-height: 30px;
+}
+
+.a-felicidade-e-recompensa{
+    line-height: 30px;
+}
+
+.a-vida-e-um-presente-viver-e-o-futuro{
+    line-height: 30px;
+}
