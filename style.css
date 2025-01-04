@@ -4,10 +4,44 @@
     box-sizing: border-box;
 }
 
+aside{
+    text-align: center;
+    background-color:aliceblue;
+    border: solid 1px;
+}
+    
+.subtitulo{
+    text-align: center;
+}
+
+.aside-dois{
+    text-align: center;
+    background-color:aquamarine;
+    border: solid 1px
+}
+
+.aside-tres{
+    text-align: center;
+    background-color:bisque;
+    border: solid 1px
+}
+
+.aside-quatro{
+    text-align: center;
+    background-color:bisque;
+    border: solid 1px
+}
+
+.texto-final{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-transform: lowercase;
+}
+
 .cabecalho{
     border: 2px;
 }
-.titulo-pagina {
+.titulo-e-nome{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-shadow: 20px 18px 6px #808080;
     text-align: center;
@@ -20,7 +54,7 @@
 .nome-do-autor{
     font-size: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: right;
+    text-align: center;
     padding: 10px;
    }
 
@@ -49,6 +83,7 @@ p{
 
 .nao-aceitar-opiniao-de-terceiros{
     line-height: 30px;
+    text-align: center;
 }
 
 .nao-cometer-o-mesmo-erro{
@@ -61,6 +96,7 @@ p{
 
 .teoria-do-carro{
     line-height: 30px;
+    text-align: center;
 }
 
 .nao-desista-dos-seus-sonhos{
